@@ -1,5 +1,5 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Utilizing AutoPhrase on Computer Science papers over time
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+Phrase mining is a useful tool to extract quality phrases from large text corpora. Previous work on this topic, such as AutoPhrase, demonstrates its effectiveness against baseline methods by using precision-recall as a metric. Our goal is to extend this work by analyzing how AutoPhrase phrases change over time, as well as how phrases are connected with each other by using network visualizations. This will be done through exploratory data analysis, along with a classification model utilizing individual phrases to predict a specific year range.
