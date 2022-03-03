@@ -1,7 +1,7 @@
 {
-    "this-repository": "https://github.com/DSC-Capstone/artifact-directory-template.git",
-    "project-repository": "https://github.com/DSC-Capstone/project-templates.git",
-    "dockerhub-repository": "amfraenkel/fair-policing-project:latest",
-    "project-website-url": "https://afraenkel.github.io/capstone-malware-domain/",
-    "project-website-code": "https://github.com/afraenkel/capstone-malware-domain.git"
+    "this-repository": "https://github.com/jamesjaeyu/artifact-directory-template.git",
+    "project-repository": "https://github.com/jamesjaeyu/autophrase_over_time.git",
+    "dockerhub-repository": "jamesjaeyu/autophrase_over_time:latest",
+    "project-website-url": "https://jamesjaeyu.github.io/autophrase_over_time/",
+    "project-website-code": "https://github.com/jamesjaeyu/autophrase_over_time.git"
 }
